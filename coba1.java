@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Penjumlahan {
+public class coba1{
     public static void main(String[] args) {
         int x;
         int y;
